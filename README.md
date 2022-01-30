@@ -22,8 +22,7 @@ DynamicDiet is an app that changes your diet requirements as you progress and me
 **Then** the app should save it so the user can look back at it
 
 ### 4) Class Diagram
-Show data classes (DTOs), Activities, Fragments, MVVM, etc.
-I use ArgoUML to model classes in a diagram.  Other tools work as well.
+![image](https://user-images.githubusercontent.com/5069442/151720011-b40faa7c-99ea-4def-b310-8e5f111e9ca1.png)
 ### 5) Class Diagram Description
 One or two lines for each class to describe  use of interfaces, JME classes, Dalvik (Android) classes and resources, interfaces, etc.  Don't worry about putting more than a few words to each class; this does not need to be thorough.
 
